@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Muhammad Iftikar<br>
+<span><h4>Software Engineer Portofolio</h4></span>"
+email: 'muhammadiftikar61@gmail.com'
+description: "I'm a master graduate student who was born in Indonesia. <br>
+Currently living and working in South Korea to sharpen my knowledge on Software and AI technology development while gradually broadenning my business knowledge."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://iftikarmuhammad.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+facebook_username: 'muhammad.iftikar'
+github_username: 'iftikarmuhammad'
+linkedin_username: 'in/muhammad-iftikar-996b6a146'
 
 # Build settings
 markdown: kramdown
@@ -89,8 +91,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2023 Muhammad Iftikar'
+admin_name: 'Muhammad Iftikar'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -98,4 +100,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  # - { url: '/about', text: 'About' }
